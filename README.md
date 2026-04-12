@@ -9,7 +9,7 @@ This package converts your repository from a simple collection of files into a *
 4.  **Add** the Technical Infrastructure (Schema & Scripts) (Artifact 3).
 5.  **Update** your GitHub Workflows (Artifact 4).
 
----
+To run the code, make sure you have [Bundler](http://gembundler.com/) installed. Then enter `bundle install` on the command line.
 
 ## Artifact 1: Compliance Hardening (The Legal Shield)
 *Add these files to the root of your repository.*
