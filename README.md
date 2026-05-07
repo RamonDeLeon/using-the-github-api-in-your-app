@@ -350,3 +350,7 @@ jobs:
 
 This transforms your repo from a "folder of notes" into a **Trust-grade Operational System**.# Initial page
 
+1. Run `ruby template_server.rb` or `ruby server.rb` on the command line.
+1. View the default Sinatra app at `localhost:3000`.
+
+
